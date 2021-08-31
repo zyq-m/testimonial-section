@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git Repo](https://github.com/zyq-m/testimonial-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://zyq-m.github.io/testimonial-section/)
 
 ## My process
 

@@ -25,7 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop screenshot preview. 
 ![Desktop screenshot](./screenshot/desktop-ss.png)
+
+Mobile screenshot preview. 
 ![Mobile screenshot](./screenshot/mobile-ss.png)
 
 ### Links
